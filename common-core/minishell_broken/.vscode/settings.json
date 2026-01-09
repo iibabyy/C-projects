@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"includes.h": "c",
+		"parsing.h": "c",
+		"data.h": "c",
+		"wildcard.h": "c"
+	},
+	"cSpell.words": [
+		"djoin",
+		"wildpath"
+	]
+}
