@@ -1,0 +1,22 @@
+{
+	"C_Cpp.errorSquiggles": "disabled",
+	"files.associations": {
+		"unistd.h": "c",
+		"stdlib.h": "c",
+		"error.h": "c",
+		"cub3d.h": "c",
+		"includes.h": "c",
+		"libft.h": "c",
+		"parsing.h": "c",
+		"get_next_line.h": "c",
+		"struct.h": "c",
+		"stdbool.h": "c",
+		"errno.h": "c",
+		"cstdlib": "c",
+		"mlx.h": "c",
+		"sysmacros.h": "c",
+		"mlx_int.h": "c",
+		"stdio.h": "c",
+		"raycasting.h": "c"
+	}
+}
